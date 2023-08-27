@@ -1,0 +1,32 @@
+body {
+  height: 2000px;
+  background-color: black;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #333;
+}
+
+#project {
+  background-color: #333;
+}
+
+section {
+  padding-top: 5rem;
+}
+/* .footer {
+
+} */
+
+/* #about {
+  background-color: black;
+} */
+
+/* .col h2 {
+  color: white;
+} */
+
+/* .col-4 {
+  padding-top: 30px;
+} */
